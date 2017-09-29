@@ -1,10 +1,11 @@
 # sticky-board
 Sticky Board is small project created with create-react-app.
+
 Demo : https://nawazsk.github.io/sticky-board/
 
-To test locally
+To test it locally
 
-git clone <repo>
+git clone repo
 
 npm install
 
