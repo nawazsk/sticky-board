@@ -63,6 +63,7 @@ class Board extends React.Component {
 
   render() {
     return (<div className='board'>
+              <h1>Sticky Board</h1>
                {
                  this.state.notes.map((note) => {
                    return this.eachNote(note);

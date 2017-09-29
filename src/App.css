@@ -18,6 +18,13 @@ div.board {
   width: 100%;
   background: #769fe0;
 }
+div.board h1 {
+  text-align: center;
+  color: #fff;
+  opacity: 0.2;
+  pointer-events: none;
+  font-family: "Shadows Into Light", Arial;
+}
 
 div.note {
   height: 150px;
